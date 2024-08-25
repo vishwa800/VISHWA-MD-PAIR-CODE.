@@ -3,7 +3,7 @@
 
 Welcome to the **Pair Code** project for **VISHWA-MD**. This application allows users to obtain a SESSION-ID by entering their phone number with the country code. It's a simple, interactive tool with a clean, modern interface designed to be both user-friendly and functional.
 
-![Background Image]([https://telegra.ph/file/d8279f4ca5da23bda7da4.jpg](https://telegra.ph/file/42fb2edb5ad99be61c501.jpg))
+![Background Image](https://telegra.ph/file/42fb2edb5ad99be61c501.jpg))
 
 ## Features
 
